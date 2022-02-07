@@ -3,7 +3,7 @@ title: "Rethinking Satellite Data Merging: From Averaging to SNR Optimization"
 collection: publications
 permalink: /publication/2021-08-18-paper-IEEE_TGRS
 excerpt: Improved data merging method.
-date: 2021-03-23
+date: 2022-01-21
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: https://ieeexplore.ieee.org/document/9531937
 citation: 'Kim, S., Sharma, A., Liu, Y., Young S.I. (2022). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 60, 1-15'
