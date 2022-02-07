@@ -3,7 +3,7 @@ title: "Development of Car-free Street Mapping (CfSM) Model using an Integrated 
 collection: publications
 permalink: /publication/2021-11-19-paper-JOCC
 excerpt: Development of car-free street map.
-date: 2021-11-19
+date: 2022-2-7
 venue: 'Journal of Computing in Civil Engineering'
 paperurl: https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0001013
 citation: 'Lee, S., Kim, S., Moonb, S. (2022). Lee, S., Kim S., and Moon S., Development of Car-free Street Mapping (CfSM) Model using an Integrated System with Unmanned Aerial Vehicle, Aerial Mapping Camera and Deep Learning Algorithm, <i>Journal of Computing in Civil Engineering</i>, 36, 3, 04022003'
