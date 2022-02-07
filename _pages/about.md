@@ -40,7 +40,7 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 ## Selected Journal Publications
 Kim S., Sharma A., Wasko C., Nathan R. (2022). Linking total precipitable water to precipitation extremes globally, <i>Earth’s Future</i>, , <a href="https://steelpl.github.io/publication/2022-01-10-paper-EF" target="_blank" rel="noopener noreferrer">Accepted</a>.
 
-Kim S., Sharma A., Liu Y., Young I. S. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, Early Access, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1-15</a>.
+Kim S., Sharma A., Liu Y., Young I. S. (2022). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, 60, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1-15</a>.
 
 Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.<i>, 22(1), <a href="https://steelpl.github.io/publication/2020-11-13-paper-JHM" target="_blank" rel="noopener noreferrer">231-244</a>.
 
