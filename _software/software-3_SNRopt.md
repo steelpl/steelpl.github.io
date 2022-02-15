@@ -1,6 +1,6 @@
 ---
 title: "SNR-opt"
-excerpt: "MATLAB codes for SNR-opt for merging datasets (Kim et al.,2021)"
+excerpt: "MATLAB codes for SNR-opt for merging datasets (Kim et al.,2022)"
 collection: software
 ---
 ## Abstract
@@ -12,4 +12,4 @@ Merging of multiple satellite datasets is a simple yet effective way to reduce p
 You can download the codes and sample data from [GitHub](https://github.com/steelpl/snr-opt).
 
 ## Citation
-Kim, S., Sharma, A., Liu, Y., Young S.I. (2021). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, Accepted.
+Kim, S., Sharma, A., Liu, Y., Young S.I. (2022). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 60, 1-15
