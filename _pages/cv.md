@@ -15,16 +15,16 @@ Education
 ======
 * Ph.D. (Water Resources Engineering and Remote Sensing of Environment), Jul 2013 - Nov 2017
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis: <a href="https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_47629&context=L" target="_blank" rel="noopener noreferrer">Improvements and applications of satellite-derived soil moisture for flood forecasting</a> [Download](https://steelpl.github.io/files/3469654-KIM Seokhyeon-Thesis_Public.pdf)
+  * Thesis: <a href="https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_47629&context=L" target="_blank" rel="noopener noreferrer">Improvements and applications of satellite-derived soil moisture for flood forecasting</a> [(Download)](https://steelpl.github.io/files/3469654-KIM Seokhyeon-Thesis_Public.pdf)
   * Supervisors: <a href="https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Ashish Sharma</a>, 
 <a href="https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Fiona Johnson</a>, 
 <a href="https://www.unsw.edu.au/engineering/our-people/yi-liu" target="_blank" rel="noopener noreferrer">Yi Liu</a>
 
 * Master of Engineering (Water Resources Engineering), Mar 2006 - Feb 2008
   * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
-  * Thesis: <a href="https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en" target="_blank" rel="noopener noreferrer">Study for Improving Water Distribution System Reliability</a>
+  * Thesis: <a href="https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en" target="_blank" rel="noopener noreferrer">Study for Improving Water Distribution System Reliability</a> [(Download)](https://steelpl.github.io/files/KIM Seokhyeon-Thesis_Masters.pdf)
   * Supervisor: <a href="https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>
-* Bachelor of Engineering (Civil and Environmental Engineering), Mar 1997 - Feb 2001
+  * Bachelor of Engineering (Civil and Environmental Engineering), Mar 1997 - Feb 2001
   * School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
 
 Professional Appointments
