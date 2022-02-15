@@ -31,8 +31,8 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 * B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea, 2001
 
 <b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
-* Associate Manager, Water resources engineering in <a href="https://en.hdec.kr/intro_en.aspx" target="_blank" rel="noopener noreferrer">HDEC</a>, Republic of Korea, 2008 - 2013   
-* First Lieutenant, Republic of Korea Army, 2001 - 2004   
+* Associate Manager, Water resources engineering in <a href="https://en.hdec.kr/intro_en.aspx" target="_blank" rel="noopener noreferrer">HDEC</a>, Republic of Korea, 2008–2013   
+* First Lieutenant, Republic of Korea Army, 2001–2004   
 <br/><img src='/images/HDEC_ARMY.jpg' width="100%" height="100%" alt="HDEC_ROKA" class="center">
 
 
@@ -40,14 +40,14 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 ## Selected Journal Publications
 Kim S., Sharma A., Wasko C., Nathan R. (2022). Linking total precipitable water to precipitation extremes globally, <i>Earth’s Future</i>, 10(2), <a href="https://steelpl.github.io/publication/2022-01-10-paper-EF" target="_blank" rel="noopener noreferrer">e2021EF002473</a>.
 
-Kim S., Sharma A., Liu Y., Young I. S. (2022). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, 60, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1-15</a>.
+Kim S., Sharma A., Liu Y., Young I. S. (2022). Rethinking Satellite Data Merging: From Averaging to SNR Optimization, <i>IEEE Trans. Geosci. Remote Sens.</i>, 60, <a href="https://steelpl.github.io/publication/2021-08-18-paper-IEEE_TGRS" target="_blank" rel="noopener noreferrer">1–15</a>.
 
-Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.</i>, 22(1), <a href="https://steelpl.github.io/publication/2020-11-13-paper-JHM" target="_blank" rel="noopener noreferrer">231-244</a>.
+Kim S., Anabalon A., Sharma A. (2021) An Assessment of Concurrency in Evapotranspiration Trends Across Multiple Global Datasets, <i>J. Hydrometeorol.</i>, 22(1), <a href="https://steelpl.github.io/publication/2020-11-13-paper-JHM" target="_blank" rel="noopener noreferrer">231–244</a>.
 
-Kim S., Sharma A. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, <i>Water Resour. Res.</i>, 55(2), <a href="https://steelpl.github.io/publication/2019-01-17-paper-WRR" target="_blank" rel="noopener noreferrer">1707-1716</a>.
+Kim S., Sharma A. (2019). The role of floodplain topography in deriving basin discharge using passive microwave remote sensing, <i>Water Resour. Res.</i>, 55(2), <a href="https://steelpl.github.io/publication/2019-01-17-paper-WRR" target="_blank" rel="noopener noreferrer">1707–1716</a>.
 
-Kim S., Paik K., Johnson F., Sharma A. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</i>, 11(2), <a href="https://steelpl.github.io/publication/2018-01-31-paper-IEEE_JSTARS" target="_blank" rel="noopener noreferrer">375-387</a>.
+Kim S., Paik K., Johnson F., Sharma A. (2018). Building a flood warning framework for ungauged locations using low resolution, open access remotely sensed surface soil moisture, precipitation, soil and topographic information, <i>IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.</i>, 11(2), <a href="https://steelpl.github.io/publication/2018-01-31-paper-IEEE_JSTARS" target="_blank" rel="noopener noreferrer">375–387</a>.
 
 
 ## For more info
-More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng, </a><a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a> 
+More info can be found in [CV](https://steelpl.github.io/cv/) or Download CV <a href="https://steelpl.github.io/files/CV_Seokhyeon.pdf" target="_blank" rel="noopener noreferrer">(Eng, </a><a href="https://steelpl.github.io/files/CV_Seokhyeon_Kor.pdf" target="_blank" rel="noopener noreferrer">Kor)</a>
