@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 This is Seokhyeon Kim's personal hompage. 
+<br/><img src='/images/WRC_20211217.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 ## A short introduction
-I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://www.wrc.unsw.edu.au/" target="_blank" rel="noopener noreferrer">WRC@UNSW</a>.
-<br/><img src='/images/WRC_20211217.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
+I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://eng.khu.ac.kr/civileng" rel="noopener noreferrer">CivilEng@KHU</a>.
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
@@ -30,7 +30,8 @@ I am a researcher in the fields of hydrology, water resources and satellite remo
 * M.Eng. in Water Resources Engineering (Supervisor: <a href="http://harmonysearchalgorithm.com/introduction/professor.html" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>, Korea University, Seoul, Republic of Korea, 2008
 * B.Eng. in Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea, 2001
 
-<b>ENGINEERING AND PROFESSIONAL EXPERIENCES:</b>
+<b>WORKING EXPERIENCES:</b>
+* Research Associate, <a href="https://www.wrc.unsw.edu.au/" target="_blank" rel="noopener noreferrer">WRC@UNSW</a>, Australia, 2017–2022   
 * Associate Manager, Water resources engineering in <a href="https://en.hdec.kr/intro_en.aspx" target="_blank" rel="noopener noreferrer">HDEC</a>, Republic of Korea, 2008–2013   
 * First Lieutenant, Republic of Korea Army, 2001–2004   
 <br/><img src='/images/HDEC_ARMY.jpg' width="100%" height="100%" alt="HDEC_ROKA" class="center">
