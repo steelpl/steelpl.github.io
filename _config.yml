@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Seokhyeon Kim"
-description              : &description "Assistant Professor in CVEN@KHU, Republic of Korea"
+description              : &description "Assistant Professor at CVEN@KHU, Republic of Korea"
 url                      : https://steelpl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steelpl.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seokhyeon Kim"
   avatar           : "seokhyeonkim_cent.jpg"
-  bio              : "Assistant Professor in CVEN@Kyung Hee University, Republic of Korea, expert in hydrology, water resources and satellite remote sensing"
+  bio              : "Assistant Professor at CVEN@Kyung Hee University, Republic of Korea, expert in hydrology, water resources and satellite remote sensing"
   location         : "Seoul, Republic of Korea"
   employer         :
   pubmed           : 
