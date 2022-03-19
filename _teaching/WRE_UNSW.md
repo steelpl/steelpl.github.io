@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (CVEN3501)"
 permalink: /teaching/WRE_UNSW
 venue: "School of Civil and Environmental Engineering, UNSW Sydney"
-date: 
+date: 2020-12-31
 location: "Sydney, Australia"
 ---
 * Teaching period: 2020(T1), 2019(T1)
