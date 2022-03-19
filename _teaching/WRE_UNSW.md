@@ -1,7 +1,7 @@
 ---
-title: "CVEN3501 Water Resources Engineering"
+title: "Water Resources Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (CVEN3501)"
 permalink: /teaching/WRE_UNSW
 venue: "School of Civil and Environmental Engineering, UNSW Sydney"
 date: 2020-12-31

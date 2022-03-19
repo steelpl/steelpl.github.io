@@ -1,7 +1,7 @@
 ---
-title: "CVEN9612-Catchment & Water Resources Modelling"
+title: "Catchment & Water Resources Modelling"
 collection: teaching
-type: "Masters course"
+type: "Masters course (CVEN9612)"
 permalink: /teaching/MOD_UNSW
 venue: "School of Civil and Environmental Engineering, UNSW Sydney"
 date: 2020-12-31
