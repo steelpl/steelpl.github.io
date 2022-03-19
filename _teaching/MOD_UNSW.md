@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course (CVEN9612)"
 permalink: /teaching/MOD_UNSW
 venue: "School of Civil and Environmental Engineering, UNSW Sydney"
-date: 2020-12-31
+date: 
 location: "Sydney, Australia"
 ---
 * Teaching period: 2020 (T3), 2019(T3), 2018(S2), 2017(S2)
