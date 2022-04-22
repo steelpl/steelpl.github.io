@@ -95,7 +95,7 @@ Professional activities
 Projects Involved
 ======
 * Research Associate, UNSW Sydney, Australia, Apr 2017–Feb 2022
-  * Australian Research Council (ARC) Discovery Project (DP), <i>Assessing Water Supply Security in a Nonstationary Environment</i>, May 2020–
+  * Australian Research Council (ARC) Discovery Project (DP), <i>Assessing Water Supply Security in a Nonstationary Environment</i>, May 2020–Feb 2022
   * ARC DP, <i>A Fourier approach to address low-frequency variability bias in hydrology</i>, May 2019–April 2020
   * ARC Linkage Project, funded by WaterNSW and Sydney Water, <i>Adapting catchment monitoring and portable water treatment to climate change</i>, Apr 2017–May 2019
 * Ph.D. candidate, UNSW Sydney, Australia, Jul 2013–Mar 2017
