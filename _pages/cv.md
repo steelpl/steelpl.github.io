@@ -20,11 +20,11 @@ Education
 <a href="https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Fiona Johnson</a>, 
 <a href="https://scholar.google.com.au/citations?user=iTSHW9wAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Yi Liu</a>
 
-* Master of Engineering (Water Resources Engineering), Mar 2006–Feb 2008
-  * School of Civil and Environmental Engineering, UNSW Sydney, NSW, Australia
+* M.Eng. (Water Resources Engineering), Mar 2006–Feb 2008
+  * School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
   * Thesis: <a href="https://library.korea.ac.kr/detail/?cid=CAT000045436610&ctype=t&lang=en" target="_blank" rel="noopener noreferrer">Study for Improving Water Distribution System Reliability</a> [(Download)](https://steelpl.github.io/files/KIM Seokhyeon-Thesis_Masters.pdf)
   * Supervisor: <a href="https://scholar.google.com.au/citations?user=c_iisoEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Joong Hoon Kim</a>
-  * Bachelor of Engineering (Civil and Environmental Engineering), Mar 1997–Feb 2001
+* B.Eng. (Civil and Environmental Engineering), Mar 1997–Feb 2001
   * School of Civil and Environmental Engineering, Korea University, Seoul, Republic of Korea
 
 Professional Appointments
