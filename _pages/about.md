@@ -12,7 +12,7 @@ This is Seokhyeon Kim's personal hompage.
 <br/><img src='/images/WRC_20211217.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 ## A short introduction
-I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://eng.khu.ac.kr/civileng/C2290352?v=view&id=DNmVwV4yCZ&project="_blank" rel="noopener noreferrer">CVEN@KHU</a> as an assistant professor. Lab Website: <a href="https://sites.google.com/view/wrebigdl"_blank" rel="noopener noreferrer">WreBigDL@KHU</a>.
+I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://eng.khu.ac.kr/civileng/C2290352?v=view&id=DNmVwV4yCZ&project=" target="_blank" rel="noopener noreferrer">CVEN@KHU</a> as an assistant professor. Lab Website: <a href="https://sites.google.com/view/wrebigdl" target="_blank" rel="noopener noreferrer">WreBigDL@KHU</a>.
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
