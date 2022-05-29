@@ -12,8 +12,7 @@ This is Seokhyeon Kim's personal hompage.
 <br/><img src='/images/WRC_20211217.png' width="100%" height="100%" alt="WRC_UNSW" class="center">
 
 ## A short introduction
-I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://eng.khu.ac.kr/civileng/C2290352?v=view&id=DNmVwV4yCZ&project="_blank" rel="noopener noreferrer">CVEN@KHU</a> as an assistant professor.
-Lab Website: <a href="https://sites.google.com/view/wrebigdl"_blank" rel="noopener noreferrer">WreBigDL@KHU</a>
+I am a researcher in the fields of hydrology, water resources and satellite remote sensing. I am currently working in <a href="https://eng.khu.ac.kr/civileng/C2290352?v=view&id=DNmVwV4yCZ&project="_blank" rel="noopener noreferrer">CVEN@KHU</a> as an assistant professor. Lab Website: <a href="https://sites.google.com/view/wrebigdl"_blank" rel="noopener noreferrer">WreBigDL@KHU</a>.
 
 <b>RESEARCH EXPERTISE AND INTEREST:</b>
 * Environmental and hydrological studies using remote sensing/reanalysis/ground data
@@ -23,8 +22,8 @@ Lab Website: <a href="https://sites.google.com/view/wrebigdl"_blank" rel="noopen
 * Meta-heuristic algorithms, network theory, deep neural network
 
 <b>TEACHING ACTIVITIES:</b>
-* <i>Water Resources Engineering</i> (in UNSW)
-* <i>Catchment and Water Resources Modelling</i> (in UNSW)
+* KHU: <i>Big data analysis and practice</i> (UG), <i>Climate change and adaptation</i> (PG)
+* UNSW: <i>Water Resources Engineering</i> (UG), <i>Catchment and Water Resources Modelling</i> (PG)
 
 <b>EDUCATION:</b>
 * Ph.D. in Water Resources Engineering and Remote Sensing of Environment (Supervisor: <a href="https://research.unsw.edu.au/people/professor-ashish-sharma" target="_blank" rel="noopener noreferrer">Ashish Sharma</a>, University of New South Wales, Sydney, Australia, 2017
